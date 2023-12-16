@@ -1,4 +1,4 @@
-![templ](https://github.com/Perusae/Perusae/banner.png)
+![Perusae](https://github.com/Perusae/Perusae/raw/main/banner.png)
 
 Perusae is a novel scraper client/server, that allows you to private or public host novels, manga, manhwa ... 
 
